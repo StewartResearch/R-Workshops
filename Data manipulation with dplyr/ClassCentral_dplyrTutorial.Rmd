@@ -6,10 +6,16 @@ output: html_document
 Note: There is a 40-minute [video tutorial](https://www.youtube.com/watch?v=jWjqLW-u3hc) on YouTube that walks through this document in detail.
 
 ## Why do I use dplyr?
+```{r}
+
+```
 
 * Great for data exploration and transformation
 * Intuitive to write and easy to read, especially when using the "chaining" syntax (covered below)
 * Fast on data frames
+```{r}
+
+```
 
 
 ## dplyr functionality
